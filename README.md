@@ -13,7 +13,7 @@ Welcome to **WeSplit**! This is a simple and elegant SwiftUI app designed to hel
 
 ## Screenshots
 
-![App Preview](https://via.placeholder.com/800x400?text=Add+Screenshots+Here)  
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/56ee0eaf-9d77-4334-80d6-e57106a105fd">
 *Example of the WeSplit interface*
 
 ## How It Works
